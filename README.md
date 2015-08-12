@@ -10,7 +10,7 @@ The more you log, the less time you spend fighting fires and the more time you s
 ## To use:
 
 ```
-logger = require('node-lite-logger');
+logger = require('lite-logger');
 logger.info({foo: 'bar'}, 'ASDF');
 ```
 
