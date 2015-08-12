@@ -1,11 +1,10 @@
 # node-lite-logger
 
-A lite logger inspired by https://strongloop.com/strongblog/automatic-node-js-clustering-with-log-aggregation/ which pushes data out as JSON instead of raw text, a la bunyan.
+A lite logger inspired by [this article on logging in node](https://strongloop.com/strongblog/automatic-node-js-clustering-with-log-aggregation/). Pushes logs out as JSON, though, instead of raw text, a la [bunyan](https://github.com/trentm/node-bunyan), giving logs a little more structure.
 
-To be used in conjunction with a proper log aggregator, such as LogEntries or Fluent.
+To be used in conjunction with a proper log aggregator, such as [LogEntries](https://logentries.com/), [Splunk](http://www.splunk.com/en_us/solutions/solution-areas/log-management.html), or [Papertrail](https://papertrailapp.com/).
 
 The more you log, the less time you spend fighting fires and the more time you spend developing real features.
-
 
 ## To use:
 
