@@ -1,0 +1,19 @@
+{
+  "name": "node-lite-logger",
+  "version": "0.0.1",
+  "description": "A super-light logger. Meant to be used in conjunction with a proper log aggregator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seelio/node-lite-logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seelio/node-lite-logger/issues"
+  },
+  "homepage": "https://github.com/seelio/node-lite-logger#readme"
+}
