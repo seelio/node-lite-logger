@@ -3,7 +3,7 @@
 ## To use:
 
 ```
-logger = require('node-lite-logger');
+logger = require('lite-logger');
 logger.info('ASDF');
 ```
 
