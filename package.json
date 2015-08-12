@@ -1,7 +1,7 @@
 {
   "name": "lite-logger",
-  "version": "0.0.2",
-  "description": "A super-light logger. Meant to be used in conjunction with a proper log aggregator.",
+  "version": "0.0.3",
+  "description": "A super-light JSON logger. Meant to be used in conjunction with a proper log aggregator.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
