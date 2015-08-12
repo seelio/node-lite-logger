@@ -25,4 +25,4 @@ Inspired by https://strongloop.com/strongblog/automatic-node-js-clustering-with-
 
 To be used in conjunction with a proper log aggregator, such as LogEntries or Fluent.
 
-The more we log, the less time we spend fighting fires and the more time we spend developing real features.
+The more you log, the less time you spend fighting fires and the more time you spend developing real features.
