@@ -1,3 +1,4 @@
+global.process.env.NODE_LITE_LOGGER_PLAINTEXT = true
 logger = require('./index.js');
 
 logger.trace({foo: {bar: {baz: 'qux'}}}, '1');

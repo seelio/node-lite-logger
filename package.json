@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seelio/node-lite-logger/issues"
   },
-  "homepage": "https://github.com/seelio/node-lite-logger#readme"
+  "homepage": "https://github.com/seelio/node-lite-logger#readme",
+  "dependencies": {
+    "util-extend": "^1.0.1"
+  }
 }
